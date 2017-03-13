@@ -1,0 +1,43 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "internet weblog"
+theme = "internet-weblog"
+Paginate = 10
+SectionPagesMenu = "main"
+
+[author]
+	handle = "rmrobins"
+	firstname = "Robert"
+	lastname = "Robinson"
+	aboutpage = "/about"
+	location = "Kitchener, ON"
+
+[params]
+	Description = "This is my little corner of the Internet. Enjoy!"
+	ShowCopyright = true
+	RSSEnabled = true
+	RSSSections = [ "Posts", "Microposts", "Photos" ]
+
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+	series = "series"
+
+[[menu.main]]
+	name = "Posts"
+	weight = 1
+	identifier = "posts"
+	url = "/posts/"
+
+#[[menu.main]]
+#	name = "Microposts"
+#	weight = 2
+#	identifier = "microposts"
+#	url = "/microposts/"
+
+#[[menu.main]]
+#	name = "Photos"
+#	weight = 3
+#	identifier = "photos"
+#	url = "/photos/"
+
