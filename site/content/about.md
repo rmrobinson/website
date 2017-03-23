@@ -4,7 +4,7 @@ title = "About"
 
 # About Me
 
-Hi, I'm Robert Robinson. I'm an entrepreneurial-minded software developer working in the Kitchener-Waterloo area. My focus is backend software development, with a focus on building scalable, reliable and performant APIs. The majority of my development experience is in C++ and node.js, however I am currently expanding that set to include PHP, Ruby and golang. I have plenty of experience working in start-up ecosystems - I have been a founding member of two engineering teams, and am currently working as 
+Hi, I'm Robert Robinson. I'm an entrepreneurial-minded software developer working in the Kitchener-Waterloo area. My focus is back-end software development, with a focus on building scalable, reliable and performant APIs. The majority of my development experience is in C++ and node.js, however I am currently expanding that set to include PHP, Ruby and golang. I have plenty of experience working in start-up ecosystems - I have been a founding member of two engineering teams, and am currently working with a late-stage startup to address scaling concerns. I have a lot of experience in the wireless telecommunication industry, including building products for Wi-Fi, 3GPP, and DSRC. I have authored several granted US patents.
 
 <br />
 
