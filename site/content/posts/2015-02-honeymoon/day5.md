@@ -1,7 +1,7 @@
 +++
 date = "2015-02-11T23:45:00+07:00"
 draft = false
-title = "Honeymoon Day 5 AM"
+title = "Honeymoon Day 5 Morning"
 categories = [ "Honeymoon", "Travel", "Cambodia" ]
 
 +++
