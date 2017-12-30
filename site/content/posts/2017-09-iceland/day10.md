@@ -2,7 +2,7 @@
 date = "2017-09-29T21:30:00-00:00"
 draft = false
 title = "Iceland Day 10"
-categories = [ "Travel", "Iceland" ]
+categories = [ "Travel", "Iceland", "2017 Iceland Adventure" ]
 
 +++
 
