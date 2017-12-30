@@ -13,6 +13,7 @@ This was the day our Icelandic road trip really started. We ate a quick breakfas
 {{< figure title="Looking out from Lögberg (the Law Rock) towards the church" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_5168.JPG" >}}
 {{< figure title="Me with Þingvellir in the background" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_5179.JPG" >}}
 {{< figure title="Looking out towards Þingvallavatn from Þingvellir" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_5190.JPG" >}}
+{{< figure title="Group selfie at Þingvellir" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/GOPR2341.jpg" >}}
 
 We arrived at Þingvellir to cloudy but dry conditions. We walked around the site, seeing not just the Althing but also walking to Öxarárfoss (a waterfall that is short walk north). We then walked down towards the lake, passing by a church. When you reach the lake, you are able to walk to an area called Silfra, which is the rift between the tectonic plates, however unless you are scuba diving you can't really see anything. We took some photos, then returned to the car and continued on.
 {{< figure title="Öxarárfoss, with a pair of rainbows" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_5240.JPG" >}}
@@ -32,11 +33,13 @@ By this point it was after 2 PM, and we were all getting hungry, so we kept an e
 The next stop on the trip was [Strokkur](https://en.wikipedia.org/wiki/Strokkur), a fountain geyser located just off the road in Selfoss. The walk to the geyser was short, maybe 5 minutes, and on the path to the geyser you can see water bubbling out of the ground and forming small streams. There are many warnings not to touch the water, since it comes out of the ground at a temperature close to 80°C. The Strokkur geyser erupts every 8 minutes or so, so we did not have to wait long for the next eruption. The water plume went higher than I think any of us were expecting; luckily we stood on the windward side of the geyser and therefore did not get wet during the eruption.
 {{< figure title="The ground smoking around the geyser" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_5353.JPG" >}}
 {{< figure title="The geyser erupting" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_5366.JPG" >}}
+{{< figure title="The group at Strokkur" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/GOPR2396.jpg" >}}
 
 After returning to the car, we continued on. Our next destination was the [Gullfoss](https://en.wikipedia.org/wiki/Gullfoss) waterfall, a two-tiered waterfall on the Olfusa river. The rain had started up again when we arrived, so after taking a few photos from the viewing platform near the parking lot we quickly climbed the stairs and viewed the waterfall from the top of the gorge that the river runs through. We got some good photos here, and decided against walking right down to the viewing platform beside the waterfall as it was engulfed in the mist of the waterfall.
 {{< figure title="The two tiers of Gullfoss" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_5379.JPG" >}}
 {{< figure title="Me with the waterfall behind" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_5387.JPG" >}}
 {{< figure title="A view at the second tier emptying into the river below" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_5395.JPG" >}}
+{{< figure title="Gullfoss" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/GOPR2405.jpg" >}}
 
 The last site of the day was a natural pool named the Secret Lagoon in Flúðir. This natural pool is fed by nearby hot spring, and was a very relaxing way to end a busy day of vacationing. There was a small geyser in one corner of the pool that we could watch erupt while swimming. It was more of a hot tub than a pool - people were not doing laps, simply lounging in the heat. We arrived just after 5:15 PM, and spent about an hour in the pool. The temperature of the pool was approximately 38°C, which is about that of a normal hot tub. The closer you were to the edge of the pool the warmer it was - the hot springs fed into the pool at the edges. 
 
