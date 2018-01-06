@@ -17,24 +17,24 @@ Kaffitár was pretty quiet, it looked as if it had just opened. We were quite hu
 After breakfast we went back to the car, and drove several blocks to Chris and Susan's hotel. Kate, Dave and I were all feeling a bit tired and gross from the flight, so we used the stop at Chris and Susan's hotel to brush our teeth, wash our faces and clean up to feel a little more human. After a 30 minute stop, we all got into the car and started a driving tour of the city. The rain was still coming down, so we decided seeing the sights from a car was going to be more enjoyable than walking.
 
 We started by driving past [Hallgrímskirkja](https://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja), a gorgeous church right in downtown Reykjavík. We continued driving and saw a shiny glass dome on the hill, so we decided to pull up to it. The building was [Perlan](https://en.wikipedia.org/wiki/Perlan), a museum with an observation deck that overlooks the city. We decided to go inside, and discovered that it was showing an exhibit about glaciers and ice caves. We toured through a series of photos that documented the volcanoes of Iceland in various stages of eruption, and then toured through an ice cave they had set up in the building. We were guided through a series of tunnels that showed us the makeup and structure of ice caves. The ice cave was built from approximately 380 tonnes of ice that was shipped to the building, most of it imported from Denmark. It was a super unique experience (it was also super cold).
-{{< figure title="Inside the ice tunnel" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_20170920_103333353.jpg" >}}
-{{< figure title="Us inside the ice tunnel" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/GOPR2310.jpg" >}}
-{{< figure title="Layers of volcanic ash intermixed into the ice" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_20170920_103133682_HDR.jpg" >}}
+{{< figure title="Inside the ice tunnel" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_20170920_103333353.jpg" >}}
+{{< figure title="Us inside the ice tunnel" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/GOPR2310.jpg" >}}
+{{< figure title="Layers of volcanic ash intermixed into the ice" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_20170920_103133682_HDR.jpg" >}}
 
 After touring through the ice cave we went to the observation deck. This provided us with a great view of the city, however it was still drizzling so we didn't spend a ton of time outside. We left Perlan around 1:00 PM.
-{{< figure title="A view of Reykjavík from the observation deck" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_20170920_105814455_HDR.jpg" >}}
-{{< figure title="Me with the city behind" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_20170920_105935123.jpg" >}}
-{{< figure title="A view of Reykjavík from the observation deck" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_20170920_110433122_HDR.jpg" >}}
+{{< figure title="A view of Reykjavík from the observation deck" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_20170920_105814455_HDR.jpg" >}}
+{{< figure title="Me with the city behind" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_20170920_105935123.jpg" >}}
+{{< figure title="A view of Reykjavík from the observation deck" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_20170920_110433122_HDR.jpg" >}}
 
 We continued our driving tour, and decided to get lunch. We ended up settling on a pizza place named Eldsmiðjan, which was quite good. After we finished lunch we decided to drive out to the [Hellisheiði](https://en.wikipedia.org/wiki/Hellishei%C3%B0i_Power_Station) power station. It had received mixed reviews on TripAdvisor, but we were very glad we spent the 30 minutes it took to get there. The tour was very informative, and it was cool to see the generators and turbines that power most of Reykjavík. There isn't tons to see - the steam is all collected through pipes, but none the less the experience is worth it.
-{{< figure title="The entrance to the Hellisheiði power station" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_5139.JPG" >}}
-{{< figure title="A cooling tower" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_5137.JPG" >}}
-{{< figure title="Electrical generators" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_5145.JPG" >}}
-{{< figure title="Steam pipes coming into the power station" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_5156.JPG" >}}
-{{< figure title="More steam pipes" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_5158.JPG" >}}
+{{< figure title="The entrance to the Hellisheiði power station" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_5139.JPG" >}}
+{{< figure title="A cooling tower" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_5137.JPG" >}}
+{{< figure title="Electrical generators" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_5145.JPG" >}}
+{{< figure title="Steam pipes coming into the power station" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_5156.JPG" >}}
+{{< figure title="More steam pipes" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_5158.JPG" >}}
 
 We returned to Reykjavík and checked into our AirBnB. Kate, Dave and I were all quite tired - none of us really slept on the plane, and we had been awake for almost 36 hours by this point, so we took a 90 minute nap. After waking up I took Chris and Susan to the grocery store, where we got the ingredients for dinner. We came back to the AirBnB where Kate and Dave had woken up, and we prepared dinner - a chicken and pasta dish with steamed mushrooms and broccoli.
-{{< figure title="Our AirBnB in Reykjavík" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/IMG_20170921_092314142.jpg" >}}
+{{< figure title="Our AirBnB in Reykjavík" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_20170921_092314142.jpg" >}}
 
 After dinner the group decided they wanted some ice cream for dessert, but I was feeling a bit under the weather so I decided to stay behind. I broke out a book and read for about an hour, then when the group returned socialized briefly before going to bed.
 
