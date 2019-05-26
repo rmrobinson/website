@@ -1,5 +1,5 @@
 +++
-date = "2019-05-20T19:00:00-04:00"
+date = "2019-05-20T19:00:00+10:00"
 draft = false
 title = "Australia Day 1"
 categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
@@ -20,4 +20,5 @@ While it was only about 3:30 PM at this point, the sun was starting to go down, 
 
 We left the tower about 40 minutes later, then decided to have a quick dinner in the food court of the Westfield mall (which is also where the Tower Eye is located). We were originally planning on going back to the hotel to find our dinner venue, but were afraid we would be too tired and just crash upon returning to the hotel so we ended up setting on some fast Vietnamese food. The meal was quick, tasty and filling - after dinner we walked back to the hotel where we had an early evening. Still getting used to the time zone.
 
+Todd went to bed early, while I worked on this blog. I then watched the series finale of Game of Thrones - using my work VPN I was able to stream the show using my Crave TV subscription.
 
