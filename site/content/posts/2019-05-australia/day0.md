@@ -1,5 +1,5 @@
 +++
-date = "2019-05-20T09:00:00-04:00"
+date = "2019-05-18T18:00:00-04:00"
 draft = false
 title = "Australia Day 0"
 categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
