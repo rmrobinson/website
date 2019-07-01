@@ -1,6 +1,6 @@
 +++
 date = "2019-05-22T21:00:00+10:00"
-draft = true
+draft = false
 title = "Australia Day 3"
 categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
 flights = [ "TT676" ]
@@ -14,6 +14,7 @@ Today was an early morning! Our flight from Sydney to Cairns, on Tigerair, was s
 The flight to Cairns was uneventful; I spent most of the flight reading 'Caliban's War' (the second novel in the Expanse series) while Todd napped. We landed in Cairns just before 10:30, picked up our bags without issue and stepped out of the terminal to a warm, humid and overcast morning. The Uber pickup point was in a dedicated area past the taxi stand, and it only took a few minutes for the Uber driver to reach us once we scheduled our pickup. The was a short, 5 minute drive to our hotel, the Holiday Inn Cairns Harbourside. We were able to check in early, and even got a waterfront view, which was a nice surprise. We spent a few minutes relaxing in the hotel room before we started walking from the hotel to the downtown. Unfortunately, about 30 seconds into our walk it started raining heavily, and after waiting a couple minutes under a tree without the rain letting up we retreated back to the hotel. We had a backup plan - the hotel had a shuttle which went downtown and we only had to wait about 10 minutes before we were on our way (in a much drier form of transport).
 
 {{< figure title="The view from our hotel balcony" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_0869.jpg" >}}
+{{< figure title="The view of the early evening from our balcony" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/IMG_20190522_175404.jpg" >}}
 
 The shuttle dropped us off at the entrance to the night market in Cairns, which put us right in the middle of the downtown area. I had been looking for lunch options on the ride over, and we settled on a Thai place just steps from the night market entrance. Todd ordered a Massaman curry while I had their Pad Thai; both dishes were delicious. The rain had let up by this point, so we walked down to the waterfront to get a better view of the ocean. There was a pretty elaborate pool/mock beach right beside the waterfront that looked like some fun, but we hadn't packed our bathing suits so decided to keep moving.
 

@@ -29,7 +29,6 @@ After leaving the memorial we walked back through Hyde Park, heading north towar
 {{< figure title="St. Mary's Cathedral" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_0643.jpg" >}}
 {{< figure title="The front of St. Mary's Cathedral" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_0649.jpg" >}}
 {{< figure title="A tower at the side of St. Mary's Cathedral" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_0657.jpg" >}}
-{{< figure title="A tower at the side of St. Mary's Cathedral" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_0657.jpg" >}}
 {{< figure title="The back of St. Mary's Cathedral" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_0663.jpg" >}}
 {{< figure title="A statue of Prince Albert" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_0665.jpg" >}}
 {{< figure title="A statue of Queen Victoria" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_0771.jpg" >}}
